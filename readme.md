@@ -27,8 +27,8 @@
 
 [![Github Icon](https://raw.githubusercontent.com/stephenapolinario/stephenapolinario/main/assets/icons/github.svg)](https://www.github.com/stephenapolinario) [![Linkedin Icon](https://raw.githubusercontent.com/stephenapolinario/stephenapolinario/main/assets/icons/linkedin.svg)](https://www.linkedin.com/in/stephenapolinario/) [![Instagram Icon](https://raw.githubusercontent.com/stephenapolinario/stephenapolinario/main/assets/icons/instagram.svg)](https://www.instagram.com/stephenmiichael)
 
-## :coffee: 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙼𝚎 - 𝙱𝚞𝚢 𝚖𝚎 𝚊 coffee!
-
+[//]: <> (## :coffee: 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙼𝚎 - 𝙱𝚞𝚢 𝚖𝚎 𝚊 coffee!
 <a href="https://www.buymeacoffee.com/stephenapolinario" target="_blank" rel="noopener noreferrer">
 	<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee">
-</a>
+</a>)
+
